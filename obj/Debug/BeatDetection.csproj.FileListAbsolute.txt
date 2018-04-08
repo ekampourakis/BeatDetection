@@ -1,0 +1,10 @@
+C:\Users\Manos\Documents\GitHub\BeatDetection\BeatDetection\obj\Debug\BeatDetection.csprojResolveAssemblyReference.cache
+C:\Users\Manos\Documents\GitHub\BeatDetection\BeatDetection\obj\Debug\BeatDetection.csproj.CoreCompileInputs.cache
+C:\Users\Manos\Documents\GitHub\BeatDetection\BeatDetection\bin\Debug\BeatDetection.pdb
+C:\Users\Manos\Documents\GitHub\BeatDetection\BeatDetection\bin\Debug\Bass.Net.dll
+C:\Users\Manos\Documents\GitHub\BeatDetection\BeatDetection\bin\Debug\Bass.Net.xml
+C:\Users\Manos\Documents\GitHub\BeatDetection\BeatDetection\obj\Debug\BeatDetection.pdb
+C:\Users\Manos\Documents\GitHub\BeatDetection\BeatDetection\obj\Debug\BeatDetection.csproj.GenerateResource.Cache
+C:\Users\Manos\Documents\GitHub\BeatDetection\BeatDetection\obj\Debug\BeatDetection.Main.resources
+C:\Users\Manos\Documents\GitHub\BeatDetection\BeatDetection\bin\Debug\BeatDetection.exe
+C:\Users\Manos\Documents\GitHub\BeatDetection\BeatDetection\obj\Debug\BeatDetection.exe
